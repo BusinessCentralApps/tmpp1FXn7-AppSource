@@ -1,0 +1,5 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/6e501bbc13665d6714bf4a58c7381b1ca7003a1b/.Modules/settings.schema.json",
+  "type": "AppSource App",
+  "templateUrl": "https://github.com/businesscentralapps/tmpp1FXn7-AppSource@main"
+}
